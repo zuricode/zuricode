@@ -1,6 +1,6 @@
 Hello!
 
-🖐🏾 My name is Zuri and I'm a self-taught developer.
+🖐🏾 My name is Zuri and I'm a self-taught coder.
 
 C++ is my strongest language and I'm slowly dabbling into new ones.
 
